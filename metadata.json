@@ -1,0 +1,6 @@
+{
+  "name": "NoteNest - Smart Notes",
+  "description": "A fast, modern notes application with smart search, tag management, pinned notes, rich formatting, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
